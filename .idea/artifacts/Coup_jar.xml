@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coup_jar</output-path>
+    <root id="archive" name="Coup.jar">
+      <element id="module-output" name="Coup" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
